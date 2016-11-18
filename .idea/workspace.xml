@@ -4,7 +4,7 @@
     <list default="true" id="e53047c4-d2e7-420b-a421-d9c47517f921" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/genus/show.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/genus/show.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AppBundle/Controller/GenusController.php" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/GenusController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/js/notes.react.js" afterPath="$PROJECT_DIR$/web/js/notes.react.js" />
     </list>
     <ignored path="aqua_note.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,12 +51,23 @@
       <file leaf-file-name="show.html.twig" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Resources/views/genus/show.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+            <state relative-caret-position="196">
+              <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
               <folding>
                 <element signature="e#12#26#0#Twig" expanded="true" />
                 <element signature="e#163#179#0#Twig" expanded="true" />
+                <element signature="e#1224#1240#0#Twig" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="notes.react.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/js/notes.react.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-305">
+              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -90,6 +101,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/AppBundle/Controller/GenusController.php" />
+        <option value="$PROJECT_DIR$/web/js/notes.react.js" />
         <option value="$PROJECT_DIR$/app/Resources/views/genus/show.html.twig" />
       </list>
     </option>
@@ -102,7 +114,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="608" />
+    <option name="x" value="472" />
     <option name="width" value="758" />
     <option name="height" value="764" />
   </component>
@@ -203,7 +215,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1479467908787</updated>
-      <workItem from="1479467931775" duration="6650000" />
+      <workItem from="1479467931775" duration="7543000" />
     </task>
     <task id="LOCAL-00001" summary="Deleting DefaultController.php&#10;">
       <created>1479468096533</created>
@@ -282,11 +294,18 @@
       <option name="project" value="LOCAL" />
       <updated>1479475153263</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Modfying route with app second page">
+      <created>1479475783646</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1479475783646</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6650000" />
+    <option name="totallyTimeSpent" value="7543000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -298,7 +317,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="608" y="0" width="758" height="764" extended-state="0" />
+    <frame x="472" y="0" width="758" height="764" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -343,7 +362,8 @@
     <MESSAGE value="Adding content via controller to view using twig" />
     <MESSAGE value="Adding web files as well as updating views" />
     <MESSAGE value="Creating JSON response" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating JSON response" />
+    <MESSAGE value="Modfying route with app second page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modfying route with app second page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -411,13 +431,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/notes.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-305">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/views/genus/show.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+        <state relative-caret-position="196">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
           <folding>
             <element signature="e#12#26#0#Twig" expanded="true" />
             <element signature="e#163#179#0#Twig" expanded="true" />
+            <element signature="e#1224#1240#0#Twig" expanded="true" />
           </folding>
         </state>
       </provider>
