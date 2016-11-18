@@ -20,6 +20,12 @@ class GenusController extends Controller
 	 */
 	public function showAction($genusName)
 	{
+		$notes = array(
+			'Octopus asked me a riddle, outsmarted me',
+			'I counted 8 legs... as they wrapped around me',
+			'Inked!'
+		);
+
 		return $this->render('genus/show.html.twig', array(
 			'name'  => $genusName
 		));
