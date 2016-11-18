@@ -16,7 +16,7 @@ use Symfony\Component\HttpFoundation\Response;
 class GenusController extends Controller
 {
 	/**
-	 * @Route("/genus/{genusName")
+	 * @Route("/genus/{genusName)")
 	 */
 	public function showAction($genusName)
 	{
